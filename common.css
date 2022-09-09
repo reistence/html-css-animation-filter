@@ -179,7 +179,7 @@
 
 /* EX-13 */
 .ex-13-top-white {
-  animation: whiteTopClockwise 5s linear infinite;
+  animation: whiteTopClockwise 2s linear infinite;
 }
 @keyframes whiteTopClockwise {
   0% {
@@ -206,7 +206,7 @@
   }
 }
 .ex-13-bottom-white {
-  animation: whiteBottomClockwise 5s linear infinite;
+  animation: whiteBottomClockwise 2s linear infinite;
 }
 @keyframes whiteBottomClockwise {
   0% {
